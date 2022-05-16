@@ -1,7 +1,4 @@
 module.exports = {
-  experimental: {
-    optimizeUniversalDefaults: true
-  },
   content: ["./*.html"],
   theme: {
     screens: {

@@ -7,3 +7,4 @@
 # Ignore files Jetbrains
 /.idea
 /node_modules/
+/projectFilesBackup/

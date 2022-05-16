@@ -2,7 +2,7 @@
   "name": "tailwind-manage-landing-page",
   "version": "1.0.0",
   "description": "Landing Page Project in TailwindCSS.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "build": "tailwind -i ./input.css -o ./css/main.css",
     "watch": "tailwind -i ./input.css -o ./css/main.css --watch"
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "http://gitlabce.local/TailwindCSS/tailwind-manage-landing-page.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["#tailwind"],
+  "author": "Clemente Nogueira",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
